@@ -1,3 +1,5 @@
+- Currently Re-Uploading my old profiles due to losing access to my old accounts (this is why we keep backups)
+
 - 👋 Hi, I’m @pieszak
 - 👀 I’m interested in Cyber Security and Operational Technology
 - 🌱 I’m currently learning C# and Django Framework
